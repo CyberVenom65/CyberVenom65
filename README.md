@@ -35,7 +35,7 @@
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
-    <a href="https://github.com/CyberVenom/">
+    <a href="https://github.com/CyberVenom65/">
         <img src="https://github-readme-stats.vercel.app/api?username=CyberVenom65&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
     <a href="https://github.com/CyberVenom65/">
