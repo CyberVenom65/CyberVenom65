@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=cybervenom65&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on **a secret project (hehehe 🤫)**
-- 🌱 I’m currently learning **MySQL and Front-End Development**
+- 🔭 I’m currently working on: **a secret project (hehehe 🤫)**
+- 🌱 I’m currently learning: **MySQL and Front-End Development**
 - 👨‍💻 Check out all my projects at: [psslasya.vercel.app](https://psslasya.vercel.app/)
 - 📫 Reach me at: **pss.lasyapriya@yahoo.com**
 - ⚡ Fun fact: **I'm a terrible singer (😖)**
