@@ -11,7 +11,7 @@
  ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://codepen.io/CyberVenom656565656565656565" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/></a>
+  <a href="https://codepen.io/CyberVenom65" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40"/></a>
   <a href="https://twitter.com/thehawk656" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
   <a href="https://linkedin.com/in/lasyapriya-pss-435876323" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
   <a href="https://www.hackerrank.com/pss_lasyapriya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
@@ -35,11 +35,11 @@
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
-    <a href="https://github.com/CyberVenom656565656565656565/">
-        <img src="https://github-readme-stats.vercel.app/api?username=CyberVenom656565656565656565&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    <a href="https://github.com/CyberVenom65/">
+        <img src="https://github-readme-stats.vercel.app/api?username=CyberVenom65&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
-    <a href="https://github.com/CyberVenom656565656565656565/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberVenom656565656565656565&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    <a href="https://github.com/CyberVenom65/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberVenom65&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
  
 </p>
